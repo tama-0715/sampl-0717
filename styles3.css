@@ -1,0 +1,36 @@
+#box1{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(40, 81, 241);
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+#box2{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(246, 246, 10);
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+#box3{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(247, 38, 202);
+    color: white;
+    text-align: center;
+    float: left;
+}
+
+p{
+    width: 200px;
+    border: solid 1px black;
+    color: purple;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    float: left;
+}
